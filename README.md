@@ -4,6 +4,3 @@
 This is the project intended to solve the CIFAR 10 Classifcation Problem posted on [Kaggle](https://www.kaggle.com/competitions/deep-learning-spring-2025-project-1/overview).
 
 
-# TODO List:
-1. Handle the data input
-2. Build model to train
