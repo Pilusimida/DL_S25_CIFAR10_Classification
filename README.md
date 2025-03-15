@@ -5,6 +5,7 @@ This is the project intended to solve the CIFAR 10 Classifcation Problem posted 
 
 ### Base Model with and without Data Augmentation
 The running procedure and result of base model with Data Augmentation are shown in file [Base_model(Augment)](./Base_model(Augment).ipynb).
+
 The running procedure and result of base model without Data Augmentation are shown in file [Base_model(without Augment)](./Base_model(No Augment).ipynb).
 
 ### Different Optimizer with Different Learning Rate
