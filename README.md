@@ -8,8 +8,11 @@ The running procedure and result are shown in file [Base_model(Augment)](./Base_
 
 ### Different Optimizer with Different Learning Rate
 Learning rate list = \[0.005, 0.001, 0.0005\]
+
 SGD result: [SGD_MultiLearningRate.ipynb](SGD_MultiLearningRate.ipynb)
+
 RMSProp result: [RMSProp_MultiLearningRate.ipynb](RMSProp_MultiLearningRate.ipynb)
+
 Adam result: [Adam_MultiLearningRate.ipynb](Adam_MultiLearningRate.ipynb)
 
 ### Final Result with Loss and Accuracy Curve
